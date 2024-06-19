@@ -1,0 +1,16 @@
+html {
+    margin: 0;
+}
+
+.page__content, 
+p,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    height: 406px;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+}
